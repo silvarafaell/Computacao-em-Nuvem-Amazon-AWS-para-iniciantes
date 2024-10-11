@@ -1,1 +1,1 @@
-# Computacao-em-Nuvem-Amazon-AWS-para-iniciantes
+# Computacao em Nuvem Amazon AWS para iniciantes
