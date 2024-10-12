@@ -10,3 +10,12 @@
   - Edge Locations
     - Caching
     - CDN
+- Entendendo como funciona o IAM(Identity Access Management)
+ - Users
+ - Regras
+ - Permissões
+ - Grupos
+ - MFA
+   - Dupla autenticação na conta
+ - Password Rotation
+   - Troca a senha cada um período
