@@ -31,3 +31,18 @@
     - Tiers > $
     - Versioning(Versão de arquivos)
     - Encript
+- Mais informações sobre o S3
+  - Componentes
+    - Object Base
+      -  Key -> Nome do arquivo
+      -  Value -> Dados do arquivo
+      -  Version -> Versões do arquivo
+      -  MetaData -> Armazenamento dos dados
+    - S3 Ticrs $
+       -  S3 Standart
+         - 99.9 %
+       - S3 IA
+         - mais barato
+       - S3 One Zone
+       - Glacier
+         - Backup 
