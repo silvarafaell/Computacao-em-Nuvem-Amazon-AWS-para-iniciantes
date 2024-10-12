@@ -62,3 +62,13 @@
     - I -> High speed Storage (Banco de dados)
     - F -> Programação
     - T -> WebServices
+- Tipos de Volumes EC2
+  - EBS -> Elastic Block Storage
+  - GP2
+    - SSD
+    - custo baixo
+    - mais utilizado
+  - Provisioned SDD
+  - STT
+    - HDD
+    -  D:
