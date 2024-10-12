@@ -45,4 +45,20 @@
          - mais barato
        - S3 One Zone
        - Glacier
-         - Backup 
+         - Backup
+- Servidores EC2
+  - Introdução ao EC2
+    - Elastic Compile Cloud
+    - Planos
+      - On Demand
+      - Virtual
+      - Testes
+    - Resolved(Contrato)
+    - C -> Compute OP
+    - G -> Grapics
+    - D -> Dense Storage
+    - R -> Memory OPT
+    - M -> General(Normais)
+    - I -> High speed Storage (Banco de dados)
+    - F -> Programação
+    - T -> WebServices
